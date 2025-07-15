@@ -14,6 +14,5 @@ Write a Python function to reverse a string **without using slicing** (`[::-1]`)
 - Bonus: Try doing it without using `reversed()` either.
 
 ## ✅ Output Example
-reverse_string("hello")       
-# 'olleh'
+reverse_string("hello")         # 'olleh'
 
